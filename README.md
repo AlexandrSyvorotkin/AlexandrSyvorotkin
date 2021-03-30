@@ -1,7 +1,7 @@
 ### Привет Меня зовут Александр
 
-## Я фронтенд разработчик из москвы
+## Я фронтенд разработчик из Москвы
 
 > ***Ни дня без опечаток в коде***
 
-https://img.shields.io/badge/-<Javascript>-<COLOR>
+https://img.shields.io/badge/<Javascript>-<COLOR>

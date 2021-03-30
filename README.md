@@ -4,7 +4,7 @@
 
 > ***Ни дня без опечаток в коде***
 
-### Технологии которые я испотзую:
+### Технологии которые я использую:
 
 ![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=Javascript)
 ![Reactjs](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
@@ -20,5 +20,15 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/niktorovys/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk)](https://vk.com/suvorotkinalex)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter)](https://twitter.com/Alex82323443)
-[![Mail.ru](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=Mail.ru)](mail:Aleks031994@mail.ru)
+
+### Почта: 
+
+Aleks031994@mail.ru
+Aleks031994@gmail.com
+
+
+[![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandrSyvorotkin&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrSyvorotkin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
